@@ -7,7 +7,7 @@ To setup your gmail to send updates do the following:
  4.Turn it on and save changes
  5.Turn it off after using the tool
 
-Alteratively:
+Altenatively:
  1. Log in to your google account(maybe use spare google account) 
  2. Go to https://myaccount.google.com/lesssecureapps in your browser
  3. Turn the setting 'allow less secure apps' ON
